@@ -1,7 +1,7 @@
 # Highlight.io services for the hobby deployment.
-#  frontend
+#  backend
 #            - '0.0.0.0:8082:8082'
-#  backend  
+#  frontend  
 #            - '0.0.0.0:3000:3000'
 #            - '0.0.0.0:6006:6006'
 #            - '0.0.0.0:8080:8080'

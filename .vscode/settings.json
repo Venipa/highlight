@@ -1,7 +1,7 @@
 {
 	"sourcegraph.defaultBranch": "main",
 	"editor.formatOnSave": true,
-	"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.defaultFormatter": "biomejs.biome",
 	"editor.codeActionsOnSave": {
 		"source.fixAll.eslint": "explicit",
 		"source.fixAll.stylelint": "explicit"
@@ -130,6 +130,9 @@
 	],
 	"[yaml]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[yml]": {
+		"editor.defaultFormatter": "biomejs.biome"
 	},
 	"[sql]": {
 		"editor.defaultFormatter": "mtxr.sqltools"
